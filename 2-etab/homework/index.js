@@ -134,4 +134,4 @@
 // Object.is("5", 5);
 // Object.is(true, false);
 
-console.log("chiki chiki cheslom")
+console.log("chiki chiki cheslom.")
