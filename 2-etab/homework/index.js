@@ -134,4 +134,93 @@
 // Object.is("5", 5);
 // Object.is(true, false);
 
-console.log("chiki chiki cheslom.")
+// console.log("chiki chiki cheslom.")
+
+
+const hayvon = { ism: "Ali" };
+console.log(hayvon.odam?.usaaa);
+
+const odamturi = { turi: "kor" };
+console.log(odamturi.kar?.shol);
+
+const owuvmarkaz = { markaz: "oxford" };
+console.log(oquvmarkaz.kosonsoy?.centre);
+
+const mashina = {
+  legenda: "cadillac escalade",
+};
+console.log(mashina.bmw?.tico);
+
+
+
+
+
+console.log("Olma"[0]);
+console.log("Anor"[2]);
+console.log("Maktab"[4]);
+console.log("Telefon"[1]);
+console.log("Kompyuter"[5]);
+
+for (let i = 1; i <= 10; i++) {
+  console.log(i);
+}
+for (let i = 70; i <= 71; i++) {
+  console.log(i);
+}
+for (let i = 89; i <= 200; i++) {
+  console.log(i);
+}
+for (let i = 500; i <= 699; i++) {
+  console.log(i);
+}
+for (let i = 1; i <= 7; i++) {
+  console.log(i);
+}
+console.log("y" > "v");
+console.log("q" < "w");
+console.log("R" < "e");
+console.log("u" > "P");
+console.log("t" < "5");
+
+
+
+console.log("Olma".length);
+console.log("Anor".length);
+console.log("Maktab".length);
+console.log("Telefon".length);
+console.log("Kompyuter".length);
+
+
+
+console.log("ali".charAt(0));
+console.log("vali".charAt(2));
+console.log("eshmat".charAt(1));
+console.log("toshmat".charAt(2));
+console.log("cheslom".charAt(1));
+
+console.log("tico".at(0));
+console.log("matiz".at(-1));
+console.log("cobalt".at(2));
+console.log("bmw".at(-2));
+console.log("axrorpostak".at(5));
+
+
+console.log("cocacolafanta".charCodeAt(0));
+console.log("pepsi".charCodeAt(1));
+console.log("sprite".charCodeAt(2));
+console.log("micco".charCodeAt(0));
+console.log("bomba".charCodeAt(3));
+
+let matn = "ali"
+let matn1 = "vali"
+let matn2 = "towmat"
+let matn3 = "ewmat"
+let matnn = matn.concat(matn1, matn2, matn3)
+console.log(matnn);
+
+
+console.log("isommiddin".includes("postaklar"));
+console.log("shapka".includes("kepka"));
+console.log("pul".includes("l"));
+console.log("ell".includes("dell"));
+console.log("includes".includes("includes"));
