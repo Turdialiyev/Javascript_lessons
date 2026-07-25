@@ -357,18 +357,18 @@
 
 
 
-console.log("isom".replace("isommid"));
+// console.log("isom".replace("isommid"));
 
 
-console.log("axr".replace("jri"));
+// console.log("axr".replace("jri"));
 
 
-console.log("11".replace("1"));
+// console.log("11".replace("1"));
 
 
-console.log("kor".replace("kir"));
+// console.log("kor".replace("kir"));
 
 
-console.log("sir".replace("ser"));
+// console.log("sir".replace("ser"));
 
 
