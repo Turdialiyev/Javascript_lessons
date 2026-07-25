@@ -102,128 +102,128 @@
 // Math.cbrt(111);
 
 
-// // (25).toString();
-// // (100).toString();
-// // (999).toString();
-// // (7).toString();
-// // (12345).toString();
+// (25).toString();
+// (100).toString();
+// (999).toString();
+// (7).toString();
+// (12345).toString();
 
-// // (12.3456).toFixed(2);
-// // (8.999).toFixed(1);
-// // (45.6789).toFixed(3);
-// // (100.5).toFixed(0);
-// // (3.14159).toFixed(4);
+// (12.3456).toFixed(2);
+// (8.999).toFixed(1);
+// (45.6789).toFixed(3);
+// (100.5).toFixed(0);
+// (3.14159).toFixed(4);
 
 
-// // isNaN("isomidddin");
-// // isNaN(50);
-// // isNaN("123");
-// // isNaN(undefined);
-// // isNaN(null);
+// isNaN("isomidddin");
+// isNaN(50);
+// isNaN("123");
+// isNaN(undefined);
+// isNaN(null);
 
 
-// // isFinite(100);
-// // isFinite(Infinity);
-// // isFinite("finite");
-// // isFinite(0);
-// // isFinite("50");
+// isFinite(100);
+// isFinite(Infinity);
+// isFinite("finite");
+// isFinite(0);
+// isFinite("50");
 
-// // Object.is(5, 5);
-// // Object.is(0, 10);
-// // Object.is(NaN, NaN);
-// // Object.is("5", 5);
-// // Object.is(true, false);
+// Object.is(5, 5);
+// Object.is(0, 10);
+// Object.is(NaN, NaN);
+// Object.is("5", 5);
+// Object.is(true, false);
 
-// // console.log("chiki chiki cheslom.")
+// console.log("chiki chiki cheslom.")
 
 
-// // const hayvon = { ism: "Ali" }
-// //  console.log(hayvon.odam?.usaaa);
+// const hayvon = { ism: "Ali" }
+//  console.log(hayvon.odam?.usaaa);
 
-// // const odamturi = { turi: "kor" }
-// // console.log(odamturi.kar?.shol);
+// const odamturi = { turi: "kor" }
+// console.log(odamturi.kar?.shol);
 
-// // const owuvmarkaz = { markaz: "oxford" }
-// // console.log(oquvmarkaz.kosonsoy?.centre)
+// const owuvmarkaz = { markaz: "oxford" }
+// console.log(oquvmarkaz.kosonsoy?.centre)
 
-// // const mashina = {
-// //   legenda: "cadillac escalade",
-// // };
-// // console.log(mashina.bmw?.tico);
+// const mashina = {
+//   legenda: "cadillac escalade",
+// };
+// console.log(mashina.bmw?.tico);
 
 
 
 
 
-// // console.log("Olma"[0]);
-// // console.log("Anor"[2]);
-// // console.log("Maktab"[4]);
-// // console.log("Telefon"[1]);
-// // console.log("Kompyuter"[5]);
+// console.log("Olma"[0]);
+// console.log("Anor"[2]);
+// console.log("Maktab"[4]);
+// console.log("Telefon"[1]);
+// console.log("Kompyuter"[5]);
 
-// // for (let i = 1; i <= 10; i++) {
-// //   console.log(i);
-// // }
-// // for (let i = 70; i <= 71; i++) {
-// //   console.log(i);
-// // }
-// // for (let i = 89; i <= 200; i++) {
-// //   console.log(i);
-// // }
-// // for (let i = 500; i <= 699; i++) {
-// //   console.log(i);
-// // }
-// // for (let i = 1; i <= 7; i++) {
-// //   console.log(i);
-// // }
-// // console.log("y" > "v");
-// // console.log("q" < "w");
-// // console.log("R" < "e");
-// // console.log("u" > "P");
-// // console.log("t" < "5");
+// for (let i = 1; i <= 10; i++) {
+//   console.log(i);
+// }
+// for (let i = 70; i <= 71; i++) {
+//   console.log(i);
+// }
+// for (let i = 89; i <= 200; i++) {
+//   console.log(i);
+// }
+// for (let i = 500; i <= 699; i++) {
+//   console.log(i);
+// }
+// for (let i = 1; i <= 7; i++) {
+//   console.log(i);
+// }
+// console.log("y" > "v");
+// console.log("q" < "w");
+// console.log("R" < "e");
+// console.log("u" > "P");
+// console.log("t" < "5");
 
 
 
-// // console.log("Olma".length);
-// // console.log("Anor".length);
-// // console.log("Maktab".length);
-// // console.log("Telefon".length);
-// // console.log("Kompyuter".length);
+// console.log("Olma".length);
+// console.log("Anor".length);
+// console.log("Maktab".length);
+// console.log("Telefon".length);
+// console.log("Kompyuter".length);
 
 
 
-// // console.log("ali".charAt(0));
-// // console.log("vali".charAt(2));
-// // console.log("eshmat".charAt(1));
-// // console.log("toshmat".charAt(2));
-// // console.log("cheslom".charAt(1));
+// console.log("ali".charAt(0));
+// console.log("vali".charAt(2));
+// console.log("eshmat".charAt(1));
+// console.log("toshmat".charAt(2));
+// console.log("cheslom".charAt(1));
 
-// // console.log("tico".at(0));
-// // console.log("matiz".at(-1));
-// // console.log("cobalt".at(2));
-// // console.log("bmw".at(-2));
-// // console.log("axrorpostak".at(5));
+// console.log("tico".at(0));
+// console.log("matiz".at(-1));
+// console.log("cobalt".at(2));
+// console.log("bmw".at(-2));
+// console.log("axrorpostak".at(5));
 
 
-// // console.log("cocacolafanta".charCodeAt(0));
-// // console.log("pepsi".charCodeAt(1));
-// // console.log("sprite".charCodeAt(2));
-// // console.log("micco".charCodeAt(0));
-// // console.log("bomba".charCodeAt(3));
+// console.log("cocacolafanta".charCodeAt(0));
+// console.log("pepsi".charCodeAt(1));
+// console.log("sprite".charCodeAt(2));
+// console.log("micco".charCodeAt(0));
+// console.log("bomba".charCodeAt(3));
 
-// // let matn = "ali"
-// // let matn1 = "vali"
-// // let matn2 = "towmat"
-// // let matn3 = "ewmat"
-// // let matnn = matn.concat(matn1, matn2, matn3)
-// // console.log(matnn);
+// let matn = "ali"
+// let matn1 = "vali"
+// let matn2 = "towmat"
+// let matn3 = "ewmat"
+// let matnn = matn.concat(matn1, matn2, matn3)
+// console.log(matnn);
 
 
-// // console.log("isommiddin".includes("postaklar"));
-// // console.log("shapka".includes("kepka"));
-// // console.log("pul".includes("l"));
-// // console.log("ell".includes("dell"));
-// // console.log("includes".includes("includes"));
+// console.log("isommiddin".includes("postaklar"));
+// console.log("shapka".includes("kepka"));
+// console.log("pul".includes("l"));
+// console.log("ell".includes("dell"));
+// console.log("includes".includes("includes"));
 
 
 
@@ -255,90 +255,90 @@
 
 
 
-let isom = "isn";
-console.log(isom.startsWith("xol"));
+// let isom = "isn";
+// console.log(isom.startsWith("xol"));
 
-let isomidddin = "isomiylar";
-console.log(isomidddin.startsWith("non")); 
+// let isomidddin = "isomiylar";
+// console.log(isomidddin.startsWith("non")); 
 
-let toshmat = "eshmat";
-console.log(toshmat.startsWith("yomgir")); 
+// let toshmat = "eshmat";
+// console.log(toshmat.startsWith("yomgir")); 
 
-let ali = "vali";
-console.log(ali.startsWith("toshmat")); 
+// let ali = "vali";
+// console.log(ali.startsWith("toshmat")); 
 
-let abror = "axror";
-console.log(abror.startsWith("y")); 
+// let abror = "axror";
+// console.log(abror.startsWith("y")); 
 
 
 
-let tuxummat = "goshmat";
-console.log(tuxummat.endsWith("suvmat")); 
+// let tuxummat = "goshmat";
+// console.log(tuxummat.endsWith("suvmat")); 
 
-let pepsimat = "fantamat";
-console.log(pepsimat.endsWith("coca")); 
+// let pepsimat = "fantamat";
+// console.log(pepsimat.endsWith("coca")); 
 
-let spritemat = "miccoomat";
-console.log(spritemat.endsWith("ampammam")); 
+// let spritemat = "miccoomat";
+// console.log(spritemat.endsWith("ampammam")); 
 
-let abusermat = "baburellomat";
-console.log(abusermat.endsWith("mat")); 
+// let abusermat = "baburellomat";
+// console.log(abusermat.endsWith("mat")); 
 
-let namnammat = "oxford";
-console.log(namnammat.endsWith("algoritm")); 
+// let namnammat = "oxford";
+// console.log(namnammat.endsWith("algoritm")); 
 
 
 
 
-let mandarinmat = "uzrdunyo";
-console.log(mandarinmat.search("dunyo")); 
+// let mandarinmat = "uzrdunyo";
+// console.log(mandarinmat.search("dunyo")); 
 
-let postakmat = "showqin";
-console.log(postakmat.search("qin")); 
+// let postakmat = "showqin";
+// console.log(postakmat.search("qin")); 
 
-let apelsinmat = "apelsin";
-console.log(apelsinmat.search("sin")); 
+// let apelsinmat = "apelsin";
+// console.log(apelsinmat.search("sin")); 
 
-let sochmat = "tukmat";
-console.log(sochmat.search("mat")); 
+// let sochmat = "tukmat";
+// console.log(sochmat.search("mat")); 
 
-let soatmat = "mat";
-console.log(soatmat.search("at")); 
+// let soatmat = "mat";
+// console.log(soatmat.search("at")); 
 
 
 
 
-let betmat = "asirmat";
-console.log(betmat.indexOf("mat")); 
+// let betmat = "asirmat";
+// console.log(betmat.indexOf("mat")); 
 
-let molmat = "boburmat";
-console.log(molmat.indexOf("bobur")); 
+// let molmat = "boburmat";
+// console.log(molmat.indexOf("bobur")); 
 
-let matmat = "cheslommat";
-console.log(matmat.indexOf("lom")); 
+// let matmat = "cheslommat";
+// console.log(matmat.indexOf("lom")); 
 
-let ketmat = "chikichikibaba";
-console.log(ketmat.indexOf("baba")); 
+// let ketmat = "chikichikibaba";
+// console.log(ketmat.indexOf("baba")); 
 
-let achkimat = "yer";
-console.log(achkimat.indexOf("ye")); 
+// let achkimat = "yer";
+// console.log(achkimat.indexOf("ye")); 
 
 
 
-let tutimat = "anorolma";
-console.log(tutimat.lastIndexOf("olma"));
+// let tutimat = "anorolma";
+// console.log(tutimat.lastIndexOf("olma"));
 
-let alomat = "bekmat"
-console.log(alomat.lastIndexOf("olma")); 
+// let alomat = "bekmat"
+// console.log(alomat.lastIndexOf("olma")); 
 
-let anormat = "kalkal";
-console.log(anormat.lastIndexOf("kal")); 
+// let anormat = "kalkal";
+// console.log(anormat.lastIndexOf("kal")); 
 
-let ajdarxomat = " olovmat";
-console.log(ajdarxomat.lastIndexOf("mat")); 
+// let ajdarxomat = " olovmat";
+// console.log(ajdarxomat.lastIndexOf("mat")); 
 
-let gapmat = "somsa";
-console.log(gapmat.lastIndexOf("sa")); 
+// let gapmat = "somsa";
+// console.log(gapmat.lastIndexOf("s")); 
 
 
 
@@ -346,9 +346,29 @@ console.log(gapmat.lastIndexOf("sa"));
  
 
 
-console.log("postak ".repeat(3));   
-console.log("ampammam".repeat(5));     
-console.log("loy".repeat(10));    
-console.log("ferraaaerri".repeat(2));    
-console.log("shaxruz".repeat(4));  
+// console.log("postak ".repeat(3));   
+// console.log("ampammam".repeat(5));     
+// console.log("loy".repeat(10));    
+// console.log("ferraaaerri".repeat(2));    
+// console.log("shaxruz".repeat(4));  
+
+
+
+
+
+
+console.log("isom".replace("isommid"));
+
+
+console.log("axr".replace("jri"));
+
+
+console.log("11".replace("1"));
+
+
+console.log("kor".replace("kir"));
+
+
+console.log("sir".replace("ser"));
+
 
