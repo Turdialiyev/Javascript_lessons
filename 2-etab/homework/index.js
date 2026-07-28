@@ -224,23 +224,7 @@
 // console.log("pul".includes("l"));
 // console.log("ell".includes("dell"));
 // console.log("includes".includes("includes"));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//========================================================================
 
 
 
@@ -270,8 +254,6 @@
 // let abror = "axror";
 // console.log(abror.startsWith("y")); 
 
-
-
 // let tuxummat = "goshmat";
 // console.log(tuxummat.endsWith("suvmat")); 
 
@@ -286,9 +268,6 @@
 
 // let namnammat = "oxford";
 // console.log(namnammat.endsWith("algoritm")); 
-
-
-
 
 // let mandarinmat = "uzrdunyo";
 // console.log(mandarinmat.search("dunyo")); 
@@ -305,9 +284,6 @@
 // let soatmat = "mat";
 // console.log(soatmat.search("at")); 
 
-
-
-
 // let betmat = "asirmat";
 // console.log(betmat.indexOf("mat")); 
 
@@ -322,8 +298,6 @@
 
 // let achkimat = "yer";
 // console.log(achkimat.indexOf("ye")); 
-
-
 
 // let tutimat = "anorolma";
 // console.log(tutimat.lastIndexOf("olma"));
@@ -340,35 +314,152 @@
 // let gapmat = "somsa";
 // console.log(gapmat.lastIndexOf("s")); 
 
-
-
-
- 
-
-
 // console.log("postak ".repeat(3));   
-// console.log("ampammam".repeat(5));     
+
+
+// console.log("ampammam".repeat(5));
+
 // console.log("loy".repeat(10));    
+
 // console.log("ferraaaerri".repeat(2));    
+
 // console.log("shaxruz".repeat(4));  
-
-
-
-
-
 
 // console.log("isom".replace("isommid"));
 
-
 // console.log("axr".replace("jri"));
-
 
 // console.log("11".replace("1"));
 
-
 // console.log("kor".replace("kir"));
-
 
 // console.log("sir".replace("ser"));
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let kiyik = "salom";
+// console.log(kiyik.length); 
+
+
+// let pepsi = "JavaScript";
+// console.log(pepsi.charAt(4)); 
+
+
+// let sprite = "Web development";
+// console.log(sprite.at(-1)); 
+// console.log(sprite.at(2));  
+
+
+// let hydrolife = "A";
+// let asu = "a";
+
+// console.log(hydrolife.charCodeAt(0)); 
+// console.log(asu.charCodeAt(0)); 
+// console.log(asu.charCodeAt(0) - hydrolife.charCodeAt(0)); 
+
+
+// let pul = "Hello";
+// let mul = "World";
+
+// console.log(pul.concat(" ", mul)); 
+
+
+// let kit = "Men JavaScript o'rganyapman";
+// console.log(kit.includes("JavaScript")); 
+
+
+// let htt = "https://example.com";
+// console.log(htt.startsWith("https")); 
+
+
+// let pdf = "report.pdf";
+// console.log(pdf.endsWith("pdf")); 
+
+
+
+
+// let ananas = "qizil olma, yashil olma, sariq olma";
+// console.log(ananas.indexOf("olma"));
+ 
+// console.log(ananas.lastIndexOf("olma")); 
+
+
+// let son = "42";
+// console.log(num.padStart(5, "0")); 
+
+
+// let matn = "Salom";
+// console.log(matn.padEnd(10, ".")); 
+
+
+// let baa = "Ba- ";
+// console.log(baa.repeat(3)); 
+
+
+// let kofe = "Men choyni yaxshi ko'raman";
+// console.log(kofe.replace("choy", "qahva"));
+
+
+
+// let ikki = "1, 2, 3, 2, 4, 2";
+// console.log(ikki.replaceAll("2", "besh"));
+
+
+
+// let Kod = "Kod yozish juda qiziq";
+// console.log(Kod.slice(4, 8)); 
+
+
+// let dars = "Dasturlash";
+// console.log(dars.substring(0, 5)); 
+
+
+// let sabzavot = "olma, banan, gilos, xurmo";
+// console.log(sabzavot.split(", "));
+
+
+// let dunyo = "   Salom dunyo!   ";
+// console.log(dunyo.trim()); 
+
+
+// let num = 12345;
+// console.log(num.toString()); 
+
+
+// let java = "Men JavaScript bilaman";
+// console.log(java.toUpperCase());
+
+
+
+// let matn88 = "HELLO WORLD";
+// console.log(matn88.toLowerCase());
+
+
+
+// let a = "apple";
+// let b = "banana";
+
+// console.log(a.localeCompare(b)); 
+
+
+// let xisobla = "5 + 3 * 2";
+// console.log(eval(xisobla)); 
