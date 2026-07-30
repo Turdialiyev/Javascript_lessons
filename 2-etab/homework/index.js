@@ -462,4 +462,107 @@
 
 
 // let xisobla = "5 + 3 * 2";
-// console.log(eval(xisobla)); 
+// console.log(eval(xisobla));  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let str1 = " 144 ";
+// console.log( Math.sqrt(parseInt(str1.trim()))); 
+
+
+// let str2 = "7.89";
+// console.log( Math.floor(parseFloat(str2)).toString()); 
+
+
+// let str3 = "-25";
+// console.log( Math.abs(parseInt(str3)).toString()); 
+
+
+// let str4 = "javascript";
+// console.log( str4[0].toUpperCase() + str4.slice(1)); 
+
+
+// let str5 = "81";
+// console.log( Math.sqrt(parseInt(str5)).toString().repeat(2)); 
+
+
+// let str6 = "frontend";
+// console.log( Math.pow(str6.length, 2)); 
+
+
+// let str7 = "125";
+// console.log( Math.cbrt(parseInt(str7)).toString()); 
+
+
+// let str8 = "React JS";
+// console.log( str8.replace(" ", "_").toUpperCase()); 
+
+
+// let str9 = "15.51";
+// console.log( Math.round(parseFloat(str9)).toString()); 
+
+
+// let str10 = "HTML,CSS,JS";
+// console.log( str10.split(",").length); 
+
+
+// let str11 = "49";
+// console.log( Math.pow(Math.sqrt(parseInt(str11)), 2)); 
+
+
+// let str12 = "backend";
+// console.log (str12[str12.length - 1].toUpperCase()); 
+
+
+// let str13 = "  36.9  ";
+// console.log (Math.ceil(parseFloat(str13.trim()))); 
+
+
+// let str14 = "apple banana apple";
+// console.log (str14.replaceAll("apple", "orange")); 
+
+
+// let str15 = "-64";
+// console.log("15-masala:", Math.sqrt(Math.abs(parseInt(str15)))); // 8
+
+
+// let str16 = "hello";
+// console.log( str16.repeat(3).length); 
+
+
+// let str17 = "100";
+// console.log( Math.sign(parseInt(str17))); 
+
+
+// let str18 = "JavaScript";
+// console.log( str18.slice(4).toUpperCase()); 
+
+
+// let str19 = "5.678";
+// console.log (Math.ceil(parseFloat(parseFloat(str19).toFixed(1)))); 
+
+
+// let str20 = " 256 ";
+// console.log(Math.floor(Math.cbrt(Math.sqrt(parseInt(str20.trim()))))); 
