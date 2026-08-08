@@ -66,8 +66,8 @@
 // let i4 = 1;
 // while (i4 <= 60) { if (i4 % 2 !== 0) console.log(i4); i4++; }
 
-let n5 = +prompt("N:"), i5 = 1;
-while (i5 <= n5) { console.log(i5 * i5 * i5); i5++; }
+// let n5 = +prompt("N:"), i5 = 1;
+// while (i5 <= n5) { console.log(i5 * i5 * i5); i5++; }
 
 // let n6 = +prompt("N:"), i6 = 1;
 // while (i6 <= n6) { if (i6 % 4 === 0) console.log(i6); i6++; }

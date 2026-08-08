@@ -38,7 +38,7 @@
 //     {id:4, ism: "hasanxon", yosh:16},
 //     {id:5, ism: "mustafo", yosh:13},
 //     {id:6, ism: "eshmat", yosh:12},
-//     {id:7, ism: "murodxon", yosh:15},
+//     {id:7, ism: "murodxon", yosh:15},   
 // ];
 
 // data.sort((a,b) => a.ism.length - b.ism.length)

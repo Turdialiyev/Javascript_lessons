@@ -137,16 +137,16 @@
 // console.log("chiki chiki cheslom.")
 
 
-// const hayvon = { ism: "Ali" }
+// let hayvon = { ism: "Ali" }
 //  console.log(hayvon.odam?.usaaa);
 
-// const odamturi = { turi: "kor" }
+// let odamturi = { turi: "kor" }
 // console.log(odamturi.kar?.shol);
 
-// const owuvmarkaz = { markaz: "oxford" }
+// let owuvmarkaz = { markaz: "oxford" }
 // console.log(oquvmarkaz.kosonsoy?.centre)
 
-// const mashina = {
+// let mashina = {
 //   legenda: "cadillac escalade",
 // };
 // console.log(mashina.bmw?.tico);
@@ -441,6 +441,7 @@
 // console.log(dunyo.trim()); 
 
 
+
 // let num = 12345;
 // console.log(num.toString()); 
 
@@ -565,4 +566,181 @@
 
 
 // let str20 = " 256 ";
-// console.log(Math.floor(Math.cbrt(Math.sqrt(parseInt(str20.trim()))))); 
+// console.log(Math.floor(Math.cbrt(Math.sqrt(parseInt(str20.trim())))));
+
+
+
+
+
+
+
+// let arr1 = [1, 2, 3];
+// arr1.push(4);
+// console.log(arr1);
+
+//  let arr2 = [1, 2, 3, 4, 5, 6];
+// let natija = [];
+
+// for (let i = 0; i < arr2.length; i++) {
+//     if (arr2[i] % 2 === 0) {
+//         natija.push(arr2[i]);
+//     }
+// }
+
+// console.log(natija);
+
+
+
+
+//  let  arr3= [10, 20, 30];
+// arr3.pop();
+// console.log(arr3);
+
+// let arr4 = [1, 2, 3, 4, 5];
+// arr4.pop();
+// arr4.pop();
+// console.log(arr4);
+
+
+
+
+// let arr5 = [2, 3];
+// arr5.unshift(1);
+// console.log(arr5);
+
+
+
+
+// let arr7 = [1, 2, 3];
+// arr7.shift();
+// console.log(arr7);
+
+// let arr8 = [1, 2, 3, 4];
+// arr8.shift();
+// arr8.shift();
+// console.log(arr8);
+
+
+
+
+// let arr9 = [10, 20, 30, 40];
+// delete arr9[2];
+// console.log(arr9);
+
+
+
+
+
+
+// let arr11 = [1, 2, 3, 4];
+// console.log(arr11.length);
+
+// let arr12 = [1, 2, 3, 4, 5];
+// arr12.length = 3;
+// console.log(arr12);
+
+
+
+
+// let arr13 = [5, 10, 15];
+// console.log(arr13.at(-1));
+
+// let arr14 = [1, 2, 3, 4];
+// console.log(arr14.at(-2));
+
+
+
+// let arr15 = [10, 20, 30];
+// console.log(arr15.indexOf(20));
+
+// let arr16 = [1, 2, 3];
+// let nom = 4;
+// console.log(arr16.indexOf(nom));
+
+
+
+
+// let arr17 = [1, 2, 3, 2];
+// console.log(arr17.lastIndexOf(2));
+
+// let arr18 = [1, 2, 3, 2, 4];
+// console.log(arr18.lastIndexOf(2));
+
+
+
+
+// let arr19 = [1, 2, 3, 4];
+// console.log(arr19.includes(5));
+
+// let arr20 = [1, 3, 5, 6];
+// let natijas = false;
+
+// for (let i = 0; i < arr20.length; i++) {
+//     if (arr20[i] % 2 === 0) {
+//         natijas= true;
+//         break;
+//     }
+// }
+
+// console.log(natijas);
+
+
+
+
+// let str1 = "Hello world";
+// console.log(str1.split(" "));
+
+// let str2 = "Hi A";
+// console.log(str2.split(""));
+
+
+
+
+// let arr21 = ["a", "b", "c"];
+// console.log(arr21.join("-"));
+
+// let arr22 = ["Men", "dasturchiman"];
+// console.log(arr22.join(" ") + ".");
+
+
+
+
+// let arr23 = [1, 2, 3];
+// arr23.reverse();
+// console.log(arr23);
+
+// let str3 = "hello";
+// console.log(str3.split("").reverse().join(""));
+
+
+
+
+// let a = [1, 2];
+// let b = [3, 4];
+
+// console.log(a.concat(b));
+
+// let ch = [1];
+// let sh = [2];
+// let y = [3];
+
+// console.log(ch.concat(sh, y));
+
+
+
+
+// let arr26 = [0, 1, 2, 3, 4];
+// console.log(arr26.slice(1, 3));
+
+// let arr27 = [1, 2, 3, 4, 5];
+// console.log(arr27.slice(-3));
+
+
+
+// let arr28 = [1, 2, 3, 4];
+// arr28.splice(2, 1);
+// console.log(arr28);
+
+// let arr29 = [1, 2, 3, 4];
+// arr29.splice(1, 2, 9, 9);
+// console.log(arr29);
